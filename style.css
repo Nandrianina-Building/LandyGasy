@@ -1,14 +1,14 @@
 @font-face {
   font-family: Poppin;
-  src: url(fontFamily/Poppins-Regular.ttf);
+  src: url(Poppins-Regular.ttf);
 }
 @font-face {
   font-family: Nunito;
-  src: url(fontFamily/Nunito-Medium.ttf);
+  src: url(Nunito-Medium.ttf);
 }
 @font-face {
   font-family: Tajawal;
-  src: url(fontFamily/Tajawal-Medium.ttf);
+  src: url(Tajawal-Medium.ttf);
 }
 * {
   padding: 0;
